@@ -1,10 +1,10 @@
 class Solution(object):
     def hammingWeight(self, n):
         c=0
-        while n>0:
-            if 1&n==1:
+        for i in range(32,-1,-1):
+            if n-2**i>=0:
                 c=c+1
-            n=n>>1
+                n=n-2**i
         return c           
         """
         :type n: int
