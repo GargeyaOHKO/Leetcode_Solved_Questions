@@ -1,13 +1,12 @@
 class Solution(object):
     def missingNumber(self, nums):
-        nums.sort()
-        k=-1
-        l=len(nums)
-        for i in range(l):
-            if(nums[i]!=i):
-                return i
-                break    
-        return i+1              
+        s=set()
+        for i in range(max(nums)+2):
+            s.add(i)
+        for i in nums:
+            if(i in s):
+                s.remove(i)       
+        return s.pop()             
         """
         :type nums: List[int]
         :rtype: int
