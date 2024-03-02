@@ -1,5 +1,5 @@
-class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
+class Solution(object):
+    def sortedSquares(self, nums):
         mini=min(nums)
         maxi=max(nums)
         l=[0]*(max(abs(mini),abs(maxi))+1)
@@ -10,5 +10,9 @@ class Solution:
             if l[i]>0:
                 for j in range(l[i]):
                     lf.append(i**2)                 
-        return lf        
+        return lf
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
         
