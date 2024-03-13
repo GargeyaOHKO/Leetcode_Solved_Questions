@@ -10,9 +10,7 @@ class Solution:
             l1.append(c)
         for i in range(1,n):
             l2.append(c) 
-            c-=i
-        print(l1)
-        print(l2)    
+            c-=i  
         for i in range(1,len(l1)-1):
             if l1[i]==l2[i]:
                 return i+1
