@@ -13,7 +13,7 @@ class Solution(object):
             r1=nums[r1]
             if r3==r1:
                 break
-        return r3                
+        return r1                
         """
         :type nums: List[int]
         :rtype: int
