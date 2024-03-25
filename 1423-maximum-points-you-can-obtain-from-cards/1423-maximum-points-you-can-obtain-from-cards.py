@@ -6,13 +6,11 @@ class Solution(object):
         maxs=s    
         l=k-1
         r=len(cardPoints)-1
-        print(s)
         while l>=0:
             s-=cardPoints[l]
             s+=cardPoints[r]
             l-=1
             r-=1
-            print(s)
             maxs=max(maxs,s)
         return maxs         
         """
