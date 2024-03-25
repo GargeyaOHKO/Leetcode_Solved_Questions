@@ -20,7 +20,6 @@ class Solution(object):
         l=0
         r=len(s1)   
         while r<len(s2):
-            print(d1,d2)
             if d1==d2:
                 return True
             else:
