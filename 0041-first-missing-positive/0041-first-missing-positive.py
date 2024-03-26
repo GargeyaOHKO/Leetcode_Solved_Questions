@@ -2,8 +2,7 @@ class Solution(object):
     def firstMissingPositive(self, nums):      
         for i in range(len(nums)-1,-1,-1):
             if nums[i]<=0:
-                nums.pop(i)
-
+                nums[i]=len(nums)+1
         for i in range(len(nums)):
             if (abs(nums[i])-1)>=len(nums):
                 continue
