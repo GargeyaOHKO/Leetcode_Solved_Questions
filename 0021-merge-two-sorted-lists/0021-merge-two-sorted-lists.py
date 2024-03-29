@@ -15,10 +15,14 @@ class Solution(object):
                 curr.next=list1
                 list1=list1.next
             curr=curr.next    
-        if list1:
+        while list1:
             curr.next=list1
-        elif list2:
-            curr.next=list2               
+            list1=list1.next
+            curr=curr.next
+        while list2:
+            curr.next=list2
+            list2=list2.next
+            curr=curr.next               
         return dum.next           
         """
         :type list1: Optional[ListNode]
