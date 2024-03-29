@@ -5,19 +5,16 @@
 #         self.next = next
 class Solution(object):
     def deleteMiddle(self, head):
-        c,curr=0,head
-        while curr:
-            c+=1
-            curr=curr.next
-        if c%2==0:
-            mid=(c//2)+1
-        else:
-            mid=(c//2)+1
+        slow,fast=head,head
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next  
+
         dum=ListNode()
         ll=dum
-        c,curr=1,head
+        curr=head
         while curr:
-            if c==mid:
+            if curr==slow:
                 if curr.next==None:
                     ll.next=None
                     curr=curr.next
@@ -28,7 +25,6 @@ class Solution(object):
                 ll.next=curr
                 curr=curr.next
             ll=ll.next
-            c+=1
         return dum.next                    
         """
         :type head: Optional[ListNode]
