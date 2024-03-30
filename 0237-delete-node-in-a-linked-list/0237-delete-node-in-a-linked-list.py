@@ -7,10 +7,10 @@
 class Solution(object):
     def deleteNode(self, node):
         node.val=node.next.val
-        if node.next==None:
+        """if node.next==None:
             node.next=None
-        else:    
-            node.next=node.next.next
+        else:"""  
+        node.next=node.next.next
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
