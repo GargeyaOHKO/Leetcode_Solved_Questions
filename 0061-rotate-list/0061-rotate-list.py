@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution(object):
     def rotateRight(self, head, k):
-        if head==None or head.next==None or k==0:
+        if head==None:
             return head
         length,curr=0,head
         while curr:
