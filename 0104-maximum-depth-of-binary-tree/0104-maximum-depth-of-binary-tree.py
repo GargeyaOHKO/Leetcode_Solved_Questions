@@ -11,7 +11,8 @@ class Solution(object):
         c=0
         while curr or stack:
             if curr:
-                stack.append([curr.right,c+1])
+                c+=1
+                stack.append([curr.right,c])
                 curr=curr.left
                 c+=1
                 maxdep=max(maxdep,c)
