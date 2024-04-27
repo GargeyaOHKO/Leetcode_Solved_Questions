@@ -13,10 +13,11 @@ class Solution(object):
                 if d[10]>0:
                     d[10]-=1
                     d[5]-=1
-                elif d[10]<0:
+                elif d[10]<=0:
                     d[5]-=3
                 if d[5]<0:
-                    return False       
+                    return False      
+            print(d)         
         return True                  
         """
         :type bills: List[int]
