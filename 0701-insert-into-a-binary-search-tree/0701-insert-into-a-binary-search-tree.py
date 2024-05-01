@@ -6,9 +6,10 @@
 #         self.right = right
 class Solution(object):
     def insertIntoBST(self, root, val):
+        if root==None:
+            return TreeNode(val)
         curr=root 
         while curr:
-            #print(curr.val)
             if curr.right==None or curr.left==None:
                 if curr.left==None and curr.val>val:
                     curr.left=TreeNode(val)
