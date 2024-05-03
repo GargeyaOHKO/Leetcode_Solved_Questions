@@ -17,9 +17,7 @@ class Solution(object):
                 node=q.popleft()
                 if node:
                     level.append(node.val)
-                if node.left:
                     q.append(node.left)
-                if node.right:
                     q.append(node.right)
             if c%2==0 and level:
                 res.append(level[::-1])
