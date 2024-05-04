@@ -11,7 +11,6 @@ class Solution(object):
         people[:]=people[:index]
         l,r=0,len(people)-1
         while len(people)!=0:
-            #print(people,l,r)
             if l==r:
                 people.pop(l)
                 c+=1
