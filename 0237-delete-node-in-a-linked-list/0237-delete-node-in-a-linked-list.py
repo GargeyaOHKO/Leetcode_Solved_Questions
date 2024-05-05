@@ -7,9 +7,6 @@
 class Solution(object):
     def deleteNode(self, node):
         node.val=node.next.val
-        """if node.next==None:
-            node.next=None
-        else:"""  
         node.next=node.next.next
         """
         :type node: ListNode
