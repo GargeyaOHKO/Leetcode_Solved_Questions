@@ -7,6 +7,7 @@
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
         l=0
+        self.s=0
         fl=[]
         def dfs(root,l):
             if not root:
@@ -14,12 +15,9 @@ class Solution:
             else:
                 l=l*10+root.val
                 if not root.right and not root.left:
-                    fl.append(l)
+                    self.s+=l
                 dfs(root.left,l)
                 dfs(root.right,l)
-        s=0       
-        dfs(root,l)       
-        for i in fl:
-            s+=i
-        return s
+                return self.s               
+        return dfs(root,l)       
         
