@@ -48,8 +48,13 @@ class Solution:
             j=0
             while j<len(d[i])-1:
             #for j in range(len(d[i])-1):
-                if (d2[d[i][j]]==d2[d[i][j+1]] and d[i][j]>d[i][j+1]) or d2[d[i][j]]>d2[d[i][j+1]]:
+                #print(d2)
+                if (d2[d[i][j]][0]==d2[d[i][j+1]][0] and d[i][j]>d[i][j+1]) or d2[d[i][j]][0]>d2[d[i][j+1]][0]:
                     d[i][j],d[i][j+1]=d[i][j+1],d[i][j]
+                    if len(d2[d[i][j]])>1:
+                        d2[d[i][j]].pop(0)
+                    if len(d2[d[i][j+1]])>1:
+                        d2[d[i][j+1]].pop(0)
                     j=0
                 else:
                     j+=1
