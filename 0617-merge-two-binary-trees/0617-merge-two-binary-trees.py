@@ -12,21 +12,17 @@ class Solution:
             return root1
         elif not root1 and not root2:
             return None
-        def merge(root1,root2):
+        head=TreeNode(0)
+        def merge(head,root1,root2):
             if not root1 and not root2:
                 return None
-            root=TreeNode(0)
-            if root1:
-                root.val+=root1.val
-            else:
+            if not root1 and root2:
                 root1=TreeNode(0)
-            if root2:
-                root.val+=root2.val
-            else:
+            if not root2 and root1:
                 root2=TreeNode(0)
-            root.left=merge(root1.left,root2.left)
-            root.right=merge(root1.right,root2.right)      
-            
-            return root
-        return merge(root1, root2)    
+            head=TreeNode(root1.val+root2.val)
+            head.left=merge(head.left,root1.left,root2.left)
+            head.right=merge(head.right,root1.right,root2.right)      
+            return head
+        return merge(head,root1,root2)    
         
