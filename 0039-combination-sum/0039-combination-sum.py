@@ -8,19 +8,13 @@ class Solution(object):
                 return None
             if sum(l)==target:
                 res.append(list(l))
+                return None
             l.append(candidates[i])
             dfs(i)
-            dfs(i+1)
             l.pop()
             dfs(i+1)
             return res
-        dfs(0)
-        l=[]
-        for i in res:
-            if i not in l:
-                l.append(i)
-        return l
-                
+        return dfs(0)       
         """
         :type candidates: List[int]
         :type target: int
