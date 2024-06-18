@@ -15,7 +15,11 @@ class Solution(object):
             dfs(i+1)
             return res
         dfs(0)
-        return list(res for res,_ in itertools.groupby(sorted(res)))
+        l=[]
+        for i in res:
+            if i not in l:
+                l.append(i)
+        return l
                 
         """
         :type candidates: List[int]
