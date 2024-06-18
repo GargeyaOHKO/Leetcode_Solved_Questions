@@ -15,7 +15,7 @@ class Solution(object):
             dfs(i+1)
             return res
         dfs(0)
-        return list(res for res,_ in itertools.groupby(res))
+        return list(res for res,_ in itertools.groupby(sorted(res)))
                 
         """
         :type candidates: List[int]
