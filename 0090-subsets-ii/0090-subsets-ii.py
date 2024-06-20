@@ -4,18 +4,14 @@ class Solution(object):
         l=[]
         def dfs(i):
             if i>=len(nums):
+                if sorted(l) not in res:
+                    res.append(list(sorted(l)))
                 return None
             else:
-                #if l not in res:
-                #res.append(list(l))
                 l.append(nums[i])
                 dfs(i+1)
-                if sorted(l) not in res:
-                    res.append(list(sorted(l)))
                 l.pop()
                 dfs(i+1)
-                if sorted(l) not in res:
-                    res.append(list(sorted(l)))
             return res     
         return dfs(0)
         """
