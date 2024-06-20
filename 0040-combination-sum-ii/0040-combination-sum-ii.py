@@ -15,8 +15,9 @@ class Solution(object):
             while i+1<len(candidates) and candidates[i]==candidates[i+1]:
                 i+=1
             dfs(i+1,l,s)
-        dfs(0,[],0)
-        return res
+            return res
+        return dfs(0,l,0)
+        
         """
         :type candidates: List[int]
         :type target: int
