@@ -6,30 +6,27 @@
 #         self.right = right
 class Solution:
     def balanceBST(self, root: TreeNode) -> TreeNode:
-        curr,stack=root,[]
         res=[]
-        while curr or stack:
-            #print(stack)
-            if curr:
-                stack.append(curr)
-                curr=curr.left    
+        def inorder(res,root):
+            if not root:
+                return None
             else:
-                curr=stack.pop()
-                res.append(curr.val)
-                curr=curr.right
-        print(res)
+                inorder(res,root.left)
+                res.append(root.val)
+                inorder(res,root.right)
+        inorder(res,root)
         curr=None
         def dfs(low,high):
             if low==high:
-                return res[low]
+                return TreeNode(res[low])
             if low>high:
                 return None
             
             mid=(low+high)//2
             curr=TreeNode(res[mid])
-            
-            curr.left=TreeNode(dfs(low,mid-1))
-            curr.right=TreeNode(dfs(mid+1,high))
+
+            curr.left=dfs(low,mid-1)
+            curr.right=dfs(mid+1,high)
 
             return curr
         return dfs(0,len(res)-1)
