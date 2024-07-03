@@ -9,16 +9,9 @@ class Solution(object):
                 return matrix[i][j]
             if (i,j) in memo:
                 return memo[(i,j)]
-
             mid=matrix[i][j]+dfs(i+1,j)
-            if j!=0:
-                left=matrix[i][j]+dfs(i+1,j-1)
-            else:
-                left=float('inf')
-            if j!=(n-1):
-                right=matrix[i][j]+dfs(i+1,j+1)
-            else:
-                right=float('inf')
+            left=matrix[i][j]+dfs(i+1,j-1)
+            right=matrix[i][j]+dfs(i+1,j+1)
             res=min(mid,min(left,right))
             memo[(i,j)]=res
             return res
