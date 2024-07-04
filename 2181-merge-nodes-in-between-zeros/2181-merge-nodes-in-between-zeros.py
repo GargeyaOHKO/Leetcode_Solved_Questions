@@ -8,17 +8,20 @@ class Solution(object):
         curr=head
         l=[]
         s=0
-        dummy=ListNode(None)
-        dhead=dummy
+        new=head
         while curr.next!=None:
             curr=curr.next
-            if curr.val==0:
-                dummy.next=ListNode(s)
-                dummy=dummy.next
+            if curr.val==0 and curr.next==None:
+                new.val=s
+                new.next=None
+            elif curr.val==0:
+                new.val=s
+                new=new.next
                 s=0
             else:
                 s+=curr.val
-        return dhead.next 
+        new.next=None
+        return head 
         """
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
