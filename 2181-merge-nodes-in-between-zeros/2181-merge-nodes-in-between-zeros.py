@@ -8,19 +8,17 @@ class Solution(object):
         curr=head
         l=[]
         s=0
+        dummy=ListNode(None)
+        dhead=dummy
         while curr.next!=None:
             curr=curr.next
             if curr.val==0:
-                l.append(s)
+                dummy.next=ListNode(s)
+                dummy=dummy.next
                 s=0
             else:
                 s+=curr.val
-        dummy=ListNode(None)
-        head=dummy
-        for i in l:
-            dummy.next=ListNode(i)
-            dummy=dummy.next
-        return head.next 
+        return dhead.next 
         """
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
