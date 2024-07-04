@@ -1,6 +1,7 @@
 class Solution(object):
     def findPaths(self, m, n, maxMove, startRow, startColumn):
-        dp=[[[-1 for i in range(maxMove)] for j in range(m+1)] for k in range(n+1)]
+        d=max(n,max(m,maxMove))
+        dp=[[[-1 for i in range(d+1)] for j in range(d+1)] for k in range(d+1)]
         def dfs(i,j,move):
             if (i<0 or j<0 or i>=m or j>=n) and move<=maxMove:
                 return 1
