@@ -1,5 +1,5 @@
-class Solution:
-    def characterReplacement(self, s: str, k: int) -> int:
+class Solution(object):
+    def characterReplacement(self, s, k):
         d={}
         l,r=0,0
         maxc=0
@@ -8,11 +8,14 @@ class Solution:
                 d[i]=0
         for r in range(len(s)):
             d[s[r]]+=1
-            if (r-l+1)-max(d.values())>k:
+            while (r-l+1)-max(d.values())>k:
                 d[s[l]]-=1
                 l+=1
             maxc=max(maxc,r-l+1)    
         return maxc
-
-         
+        """
+        :type s: str
+        :type k: int
+        :rtype: int
+        """
         
