@@ -14,8 +14,4 @@ class Solution:
                 cur+=nums[i][1] 
             l.append(extra+nums[i][1])
             #print(extra,cur,l)
-        s=0
-        #print(l)
-        for i in l:
-            s+=i
-        return float(s/len(nums))
+        return float(sum(l)/len(nums))
