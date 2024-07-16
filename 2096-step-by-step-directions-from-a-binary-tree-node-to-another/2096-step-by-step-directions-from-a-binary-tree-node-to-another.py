@@ -31,16 +31,14 @@ class Solution:
                 node,s=q.popleft()
                 if node.val==destValue:
                     return s
-                    break
-            else:
-                if node.left and node.left not in vis:
-                    q.append([node.left,s+'L'])
-                    vis.add(node.left)
-                if node.right and node.right not in vis:
-                    q.append([node.right,s+'R'])
-                    vis.add(node.right)
-                if node in parent and parent[node] not in vis:
-                    q.append([parent[node],s+'U'])
-                    vis.add(parent[node])
-
+                else:
+                    if node.left and node.left not in vis:
+                        q.append([node.left,s+'L'])
+                        vis.add(node.left)
+                    if node.right and node.right not in vis:
+                        q.append([node.right,s+'R'])
+                        vis.add(node.right)
+                    if node in parent and parent[node] not in vis:
+                        q.append([parent[node],s+'U'])
+                        vis.add(parent[node])
         
