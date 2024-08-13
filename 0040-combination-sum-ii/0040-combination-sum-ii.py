@@ -5,6 +5,7 @@ class Solution(object):
         def dfs(curr,pos,target):
             if target==0:
                 res.append(list(curr))
+                return None
             if target<0:
                 return None
             prev=-1
