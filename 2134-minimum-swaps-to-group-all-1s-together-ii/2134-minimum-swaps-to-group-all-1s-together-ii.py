@@ -4,10 +4,10 @@ class Solution:
         d={0:0,1:0}
         mini=float('inf')
         one=0
-        for i in range(len(nums)):
+        for i in range(n):
             if nums[i]==1:
                 one+=1
-        if one==0 or one==len(nums):
+        if one==0 or one==n:
             return 0
 
         l,r=0,0
