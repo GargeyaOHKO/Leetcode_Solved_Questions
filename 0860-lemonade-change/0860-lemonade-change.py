@@ -16,8 +16,7 @@ class Solution(object):
                 elif d[10]<=0:
                     d[5]-=3
                 if d[5]<0:
-                    return False      
-            print(d)         
+                    return False             
         return True                  
         """
         :type bills: List[int]
