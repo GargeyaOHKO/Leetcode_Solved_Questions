@@ -1,17 +1,26 @@
-class Solution(object):
-    def minBitFlips(self, start, goal):
+class Solution:
+    def minBitFlips(self, start: int, goal: int) -> int:
+        st=[]
+        s=0
+        for i in range(30,-1,-1):
+            if (2**i)+s>start:
+                st.append(0)
+            else:
+                s+=2**i
+                st.append(1)
+        end=[]
+        s=0
+        for i in range(30,-1,-1):
+            if (2**i)+s>goal:
+                end.append(0)
+            else:
+                s+=2**i
+                end.append(1)
+        #print(st)
+        #print(end)
         c=0
-        while max(start,goal)>0:
-            bit1=start&1
-            bit2=goal&1
-            if bit1^bit2==1:
+        for i in range(len(st)):
+            if st[i]!=end[i]:
                 c+=1
-            start=start>>1
-            goal=goal>>1    
         return c
-        """
-        :type start: int
-        :type goal: int
-        :rtype: int
-        """
         
