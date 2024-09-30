@@ -9,7 +9,7 @@ class CustomStack:
         if self.top!=self.maxSize:
             self.l[self.top]=x
             self.top+=1
-        print(self.l)
+        #print(self.l)
 
     def pop(self) -> int:
         if self.top>0:
