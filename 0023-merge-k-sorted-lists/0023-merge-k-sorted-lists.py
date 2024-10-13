@@ -10,7 +10,7 @@ class Solution:
             c=i
             #print(c.val)
             while c!=None:
-                heapq.heappush(h,c.val)
+                h.append(c.val)
                 c=c.next
         h.sort()
         head=ListNode(None)
