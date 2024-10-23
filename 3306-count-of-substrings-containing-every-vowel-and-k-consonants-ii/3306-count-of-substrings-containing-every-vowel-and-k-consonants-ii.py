@@ -33,5 +33,3 @@ class Solution:
                     d['c']-=1
                 l+=1
         return abs(c1-c2)
-
-        
