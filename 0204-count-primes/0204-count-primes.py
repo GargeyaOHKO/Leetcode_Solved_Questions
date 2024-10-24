@@ -9,4 +9,3 @@ class Solution:
                 for j in range(i*i,n,i):
                     l[j]=0            
         return sum(l)
-        
