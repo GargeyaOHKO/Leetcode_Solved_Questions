@@ -13,6 +13,6 @@ class Solution:
                 return False
             if c==s:
                 return True
-            dp[(i,c)]=dfs(i+1,c+nums[i])|dfs(i+1,c)
+            dp[(i,c)]=dfs(i+1,c+nums[i]) or dfs(i+1,c)
             return dp[(i,c)]
         return dfs(0,0)
