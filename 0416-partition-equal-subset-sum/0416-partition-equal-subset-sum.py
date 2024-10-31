@@ -10,9 +10,10 @@ class Solution:
             if (i,c) in dp:
                 return dp[(i,c)]
             if i==len(nums):
-                return False
-            if c==s:
-                return True
+                if c==s:
+                    return True
+                else:
+                    return False
             dp[(i,c)]=dfs(i+1,c+nums[i]) or dfs(i+1,c)
             return dp[(i,c)]
         return dfs(0,0)
