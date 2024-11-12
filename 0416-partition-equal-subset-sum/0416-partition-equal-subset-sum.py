@@ -6,14 +6,14 @@ class Solution:
         else:
             s=s//2
         dp={}
-        def dfs(i,c):
-            if (i,c) in dp:
-                return dp[(i,c)]
+        def dfs(i,c1,c2):
+            if (i,c1,c2) in dp:
+                return dp[(i,c1,c2)]
             if i==len(nums):
-                if c==s:
+                if c1==c2:
                     return True
                 else:
                     return False
-            dp[(i,c)]=dfs(i+1,c+nums[i]) or dfs(i+1,c)
-            return dp[(i,c)]
-        return dfs(0,0)
+            dp[(i,c1,c2)]=dfs(i+1,c1+nums[i],c2) or dfs(i+1,c1,c2+nums[i])
+            return dp[(i,c1,c2)]
+        return dfs(0,0,0)
