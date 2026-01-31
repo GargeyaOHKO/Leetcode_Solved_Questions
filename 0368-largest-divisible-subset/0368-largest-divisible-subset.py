@@ -3,7 +3,7 @@ class Solution:
         nums.sort()
         dp={}
         def dfs(i):
-            print(dp,i)
+            #print(dp,i)
             if i in dp:
                 return dp[i]
             if i>=len(nums):
