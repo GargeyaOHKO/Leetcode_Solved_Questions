@@ -10,9 +10,8 @@ class Solution:
         def dfs(i,dletter,total):
             if i>=len(words):
                 return total
-            #print(i,dletter,total,words[i])
-            if (i,total,tuple(sorted(dletter.items()))) in dp:
-                return dp[(i,total,tuple(sorted(dletter.items())))]
+            if (i,total,tuple(dletter.get(chr(i+97), 0) for i in range(26))) in dp:
+                return dp[(i,total,tuple(dletter.get(chr(i+97), 0) for i in range(26)))]
             currword=Counter(words[i])
             tempscore=0
             tempdletter=copy.deepcopy(dletter)
@@ -23,11 +22,10 @@ class Solution:
                     tempscore+=score[(ord(j)-97)]*currword[j]
                 else:
                     flag=False
-            #print(tempscore,flag)
             if not flag:
-                dp[(i,total,tuple(sorted(dletter.items())))]=dfs(i+1,dletter,total)
+                dp[(i,total,tuple(dletter.get(chr(i+97), 0) for i in range(26)))]=dfs(i+1,dletter,total)
             else:
-                dp[(i,total,tuple(sorted(dletter.items())))]=max(dfs(i+1,dletter,total),dfs(i+1,tempdletter,total+tempscore))
-            return dp[(i,total,tuple(sorted(dletter.items())))]
+                dp[(i,total,tuple(dletter.get(chr(i+97), 0) for i in range(26)))]=max(dfs(i+1,dletter,total),dfs(i+1,tempdletter,total+tempscore))
+            return dp[(i,total,tuple(dletter.get(chr(i+97), 0) for i in range(26)))]
         return dfs(0,dletter,0)
         
