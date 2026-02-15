@@ -13,19 +13,10 @@ class Solution:
                 num2+=2**power
             power-=1
         temp=num1+num2
-        return bin(temp)[2:]
-        '''newstr=""
-        flag=False
-        for i in range(20,-1,-1):
-            if 2**i<=temp and not flag:
-                newstr+="1"
-                temp-=2**i
-                flag=True
-            elif 2**i<=temp and flag:
-                newstr+="1"
-                temp-=2**i
-            elif 2**i>temp and flag:
-                newstr+="0"
+        newstr=""
+        while temp>0:
+            newstr=str(temp%2)+newstr
+            temp=temp//2
         if newstr=="":
-            return "0"
-        return newstr'''
+            return '0'
+        return newstr
