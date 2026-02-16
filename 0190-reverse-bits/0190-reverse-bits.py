@@ -1,13 +1,20 @@
 class Solution:
-    # @param n, an integer
-    # @return an integer
-    def reverseBits(self, n):
-        one=1
-        res=0
-        for i in range(32):
-            bit=n&1
-            n=n>>1
-            res=res|bit
-            if i<31:
-                res=res<<1
-        return res    
+    def reverseBits(self, n: int) -> int:
+        s=""
+        for i in range(32-1,-1,-1):
+            if n>=2**i:
+                s="1"+s
+                n-=2**i
+            else:
+                s="0"+s
+        ans=0
+        power=31
+        for i in range(len(s)):
+            if s[i]=="1":
+                ans+=2**power
+            power-=1
+        return ans
+
+
+
+
