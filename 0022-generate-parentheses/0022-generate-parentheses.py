@@ -1,16 +1,17 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res=[]
-        def dfs(l,openn,close):
-            if openn==n and close==n:
-                res.append(str(l))
-                return None
-            if openn<n:
-                l+="("
-                dfs(l,openn+1,close)
-                l=l[:-1]
-            if close<openn:
-                l+=")"
-                dfs(l,openn,close+1)
-            return res
-        return dfs("",0,0)
+        def dfs(o,c,s):
+            if len(s)==2*n:
+                res.append(s)
+                return 0
+            if o>0:
+                s+='('
+                dfs(o-1,c+1,s)
+                s=s[:len(s)-1]
+            if c>0:
+                s+=')'
+                dfs(o,c-1,s)
+                s=s[:len(s)-1]
+        dfs(n-1,1,"(")
+        return res
