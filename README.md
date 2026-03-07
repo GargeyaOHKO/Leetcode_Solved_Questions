@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,4 +17,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GargeyaOHKO/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 <!---LeetCode Topics End-->
