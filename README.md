@@ -11,11 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/GargeyaOHKO/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 <!---LeetCode Topics End-->
