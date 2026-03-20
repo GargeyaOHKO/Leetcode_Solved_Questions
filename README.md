@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GargeyaOHKO/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
