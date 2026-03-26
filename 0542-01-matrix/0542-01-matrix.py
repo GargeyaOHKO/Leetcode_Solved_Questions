@@ -17,7 +17,7 @@ class Solution:
                 for j in move:
                     newr,newc=k[0]+j[0],k[1]+j[1]
                     if 0<=newr<len(mat) and 0<=newc<len(mat[0]) and (newr,newc) not in seen:
-                        res[newr][newc]=min(res[newr][newc],c)
+                        res[newr][newc]=c
                         q.append([newr,newc])
                         seen.add((newr,newc))
             c+=1
