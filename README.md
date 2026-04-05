@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0481-magical-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0481-magical-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GargeyaOHKO/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
