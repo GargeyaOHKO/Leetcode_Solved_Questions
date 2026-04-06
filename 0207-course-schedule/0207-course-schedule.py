@@ -1,29 +1,22 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        d={i:[] for i in range(numCourses)}
-        for i in prerequisites:
-            d[i[0]].append(i[1])
-
-        state=[0]*numCourses
-        def dfs(curr):
-            #print(curr,state)
-            if state[curr]==1:
-                return False
-            if state[curr]==2:
-                return True
-            state[curr]=1
-            for n in d[curr]:
-                if not dfs(n):
-                    return False
-            state[curr]=2
-            return True
-        
-        for i in d:
-            if not dfs(i):
+    def canFinish(self, nc: int, pre: List[List[int]]) -> bool:
+        d={i:[] for i in range(nc)}
+        inbound=[0 for _ in range(nc)]
+        for i in pre:
+            d[i[1]].append(i[0])
+            inbound[i[0]]+=1
+        q=deque()
+        for i in range(len(inbound)):
+            if inbound[i]==0:
+                q.append(i)
+        while q:
+            for i in range(len(q)):
+                curr=q.popleft()
+                for j in d[curr]:
+                    inbound[j]-=1
+                    if inbound[j]==0:
+                        q.append(j)
+        for i in inbound:
+            if i!=0:
                 return False
         return True
-
-
-
-
-        
