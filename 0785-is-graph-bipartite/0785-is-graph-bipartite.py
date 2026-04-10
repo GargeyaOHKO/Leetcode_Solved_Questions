@@ -1,6 +1,8 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
         for z in range(len(graph)):
+            if graph[z]==[]:
+                continue
             odd,even=set(),set()
             q=deque()
             q.append(z)
@@ -25,7 +27,7 @@ class Solution:
                                 even.add(j)
                                 q.append(j)
                 k+=1
-        return True
+            return True
                         
 
 
