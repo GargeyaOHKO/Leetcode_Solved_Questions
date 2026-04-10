@@ -1,15 +1,15 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
+        odd,even=set(),set()
         for z in range(len(graph)):
-            if graph[z]==[]:
+            if z in odd or z in even:
                 continue
-            odd,even=set(),set()
             q=deque()
             q.append(z)
             odd.add(z)
             k=1
             while q:
-                print(q,k,odd,even)
+                #print(q,k,odd,even)
                 for i in range(len(q)):
                     curr=q.popleft()
                     for j in graph[curr]:
@@ -27,7 +27,7 @@ class Solution:
                                 even.add(j)
                                 q.append(j)
                 k+=1
-            return True
+        return True
                         
 
 
