@@ -5,7 +5,6 @@ class Solution:
         seen=set()
         l=[]
         while heap:
-            #print(heap)
             curr,r,c=heapq.heappop(heap)
             if (r,c) in seen:
                 continue
