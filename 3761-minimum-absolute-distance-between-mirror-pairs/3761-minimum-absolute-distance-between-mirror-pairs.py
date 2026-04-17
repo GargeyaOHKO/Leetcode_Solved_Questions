@@ -6,7 +6,6 @@ class Solution:
             rev=int(str(nums[i])[::-1])
             if rev in d:
                 mini=min(mini,d[rev][0]-i)
-                d[rev].append(i)
             if nums[i] not in d or len(d[nums[i]])==1:
                 d[nums[i]]=[i]
         if mini==float('inf'):
