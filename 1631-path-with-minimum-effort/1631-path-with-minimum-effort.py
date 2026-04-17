@@ -15,7 +15,6 @@ class Solution:
             for m in moves:
                 newr,newc=m[0]+r,m[1]+c
                 if 0<=newr<len(heights) and 0<=newc<len(heights[0]) and (newr,newc) not in seen:
-                    seen.add((r,c))
                     diff=max(curr,abs(heights[r][c]-heights[newr][newc]))
                     heapq.heappush(heap,[diff,newr,newc])
                     
