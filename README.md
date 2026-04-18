@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/GargeyaOHKO/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/GargeyaOHKO/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/GargeyaOHKO/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/GargeyaOHKO/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/GargeyaOHKO/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/GargeyaOHKO/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/GargeyaOHKO/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/GargeyaOHKO/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/GargeyaOHKO/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/GargeyaOHKO/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -131,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GargeyaOHKO/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/GargeyaOHKO/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/GargeyaOHKO/Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/GargeyaOHKO/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Backtracking
