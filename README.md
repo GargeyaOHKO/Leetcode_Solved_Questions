@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/GargeyaOHKO/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GargeyaOHKO/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GargeyaOHKO/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GargeyaOHKO/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GargeyaOHKO/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
