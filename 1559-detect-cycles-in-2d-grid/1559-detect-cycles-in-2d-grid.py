@@ -1,32 +1,26 @@
 class Solution:
     def containsCycle(self, grid: List[List[str]]) -> bool:
-        globalseen=set()
-
-        def dfs(a,b):
-            moves=[[0,1],[1,0],[-1,0],[0,-1]]
-            q=deque()
-            q.append([a,b,-1,-1])
-            seen=set()
-            seen.add((a,b))
-            globalseen.add((a,b))
-            while q:
-                for i in range(len(q)):
-                    #print(q,"seen",seen,"gseen",globalseen)
-                    r,c,prevr,prevc=q.popleft()
-                    for m in moves:
-                        newr,newc=r+m[0],c+m[1]
-                        #print(newr,newc,prevr,prevc)
-                        if 0<=newr<len(grid) and 0<=newc<len(grid[0]) and (newr,newc) not in seen and grid[newr][newc]==grid[r][c]:
-                            q.append([newr,newc,r,c])
-                            seen.add((newr,newc))
-                            globalseen.add((newr,newc))
-                        elif (newr,newc) in seen and (newr!=prevr or newc!=prevc):
-                            return True
+        seen=set()
+        self.flag=False
+        def dfs(r,c,prevr,prevc):
+            moves=[[0,1],[1,0],[0,-1],[-1,0]]
+            for m in moves:
+                newr,newc=r+m[0],c+m[1]
+                if 0<=newr<len(grid) and 0<=newc<len(grid[0]) and grid[newr][newc]==grid[r][c] and (newr,newc) not in seen:
+                    #print(newr,newc,prevr,prevc)
+                    seen.add((newr,newc))
+                    dfs(newr,newc,r,c)
+                elif (newr,newc) in seen and (newr!=prevr or newc!=prevc) and grid[newr][newc]==grid[r][c]:
+                    #print("final",newr,newc,prevr,prevc)
+                    self.flag=True
+                    return True
 
         for r in range(len(grid)):
             for c in range(len(grid[0])):
-                if (r,c) not in globalseen:
-                    if dfs(r,c):
+                #print("initial",r,c)
+                if (r,c) not in seen:
+                    seen.add((r,c))
+                    if dfs(r,c,-1,-1):
                         return True
-
+        return self.flag
         return False
