@@ -5,34 +5,12 @@ class Solution:
         #print(nums)
         while l<=r:
             mid=(r+l)//2
-            #print(mid)
-            #print(nums[(mid-1)%n], nums[mid], nums[(mid+1)%n])
-            if nums[mid]<=nums[(mid+1)%n] and nums[mid]<=nums[(mid-1)%n]:
-                return nums[mid]
-            elif nums[mid]<nums[(mid+1)%n] and nums[mid]>nums[(mid-1)%n]:
-                r=mid-1
-            elif nums[mid]>nums[(mid+1)%n] and nums[mid]<nums[(mid-1)%n]:
+            if mid!=0 and mid!=len(nums)-1:
+                if nums[mid]<nums[mid-1] and nums[mid]<nums[mid+1]:
+                    return nums[mid]
+            if nums[mid]>nums[r]:
                 l=mid+1
             else:
-                if nums[(mid+1)%n]<nums[(mid-1)%n]:
-                    return nums[(mid+1)%n]
-                else:   
-                    return nums[(mid-1)%n]
-        
-        l,r=0,n-1
-        #print(nums)
-        while l<=r:
-            mid=(r+l)//2
-            #print(mid)
-            #print(nums[(mid-1)%n], nums[mid], nums[(mid+1)%n])
-            if nums[mid]<=nums[(mid+1)%n] and nums[mid]<=nums[(mid-1)%n]:
-                return nums[mid]
-            elif nums[mid]<nums[(mid+1)%n] and nums[mid]>nums[(mid-1)%n]:
-                l=mid+1
-            elif nums[mid]>nums[(mid+1)%n] and nums[mid]<nums[(mid-1)%n]:
                 r=mid-1
-            else:
-                if nums[(mid+1)%n]<nums[(mid-1)%n]:
-                    return nums[(mid+1)%n]
-                else:   
-                    return nums[(mid-1)%n]
+                c=nums[mid]
+        return c
