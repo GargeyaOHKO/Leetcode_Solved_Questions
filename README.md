@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GargeyaOHKO/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+| [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
