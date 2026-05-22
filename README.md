@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/GargeyaOHKO/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GargeyaOHKO/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
