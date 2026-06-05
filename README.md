@@ -226,16 +226,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/GargeyaOHKO/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GargeyaOHKO/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
