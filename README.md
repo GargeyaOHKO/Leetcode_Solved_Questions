@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
