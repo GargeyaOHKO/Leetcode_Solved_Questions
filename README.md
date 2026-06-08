@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/GargeyaOHKO/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GargeyaOHKO/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GargeyaOHKO/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Topological Sort
