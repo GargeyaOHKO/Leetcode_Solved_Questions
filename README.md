@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
