@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
