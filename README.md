@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Greedy
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -349,8 +353,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
