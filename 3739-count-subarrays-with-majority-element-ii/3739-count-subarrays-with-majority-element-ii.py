@@ -1,21 +1,5 @@
-class FenwickTree:
-    def __init__(self, n):
-        self.n = n
-        self.tree = [0] * (n + 1)
-
-    def update(self, i, delta):
-        while i <= self.n:
-            self.tree[i] += delta
-            i += i & -i
-
-    def query(self, i):
-        s = 0
-        while i > 0:
-            s += self.tree[i]
-            i -= i & -i
-        return s
-
 class Solution:
+    from sortedcontainers import SortedList
     def countMajoritySubarrays(self, nums: List[int], target: int) -> int:
         for i in range(len(nums)):
             if nums[i]==target:
@@ -31,10 +15,10 @@ class Solution:
         for i in range(len(pref)):
             pref[i]=pref[i]-mini+1
         maxi=max(pref)
-        ftree=FenwickTree(maxi)
+        sl=SortedList()
         res=0
         for i in range(len(pref)):
-            res+=ftree.query(pref[i]-1)
-            ftree.update(pref[i],1)
+            sl.add(pref[i])
+            res+=sl.bisect_left(pref[i])
         return res
 
