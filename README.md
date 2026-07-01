@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/GargeyaOHKO/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/GargeyaOHKO/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -318,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/GargeyaOHKO/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
