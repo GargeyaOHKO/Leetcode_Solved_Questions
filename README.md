@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/GargeyaOHKO/Leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/GargeyaOHKO/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GargeyaOHKO/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/GargeyaOHKO/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GargeyaOHKO/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/GargeyaOHKO/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/GargeyaOHKO/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/GargeyaOHKO/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -329,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/GargeyaOHKO/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GargeyaOHKO/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
