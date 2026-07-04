@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/GargeyaOHKO/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/GargeyaOHKO/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/GargeyaOHKO/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/GargeyaOHKO/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/GargeyaOHKO/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/GargeyaOHKO/Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/GargeyaOHKO/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/GargeyaOHKO/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/GargeyaOHKO/Leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Backtracking
