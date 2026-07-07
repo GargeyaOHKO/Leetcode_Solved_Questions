@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/GargeyaOHKO/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0542-01-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/GargeyaOHKO/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
