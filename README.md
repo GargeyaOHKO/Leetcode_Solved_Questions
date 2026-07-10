@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0319-bulb-switcher](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0319-bulb-switcher/) | Medium |
 | [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -403,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
