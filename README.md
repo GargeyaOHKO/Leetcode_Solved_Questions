@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/GargeyaOHKO/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/GargeyaOHKO/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/GargeyaOHKO/Leetcode/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/GargeyaOHKO/Leetcode/tree/main/0134-gas-station/) | Medium |
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0319-bulb-switcher](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0319-bulb-switcher/) | Medium |
 | [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
+| [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
