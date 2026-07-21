@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0481-magical-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0481-magical-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/GargeyaOHKO/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
 | [0763-partition-labels](https://github.com/GargeyaOHKO/Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -431,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
