@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GargeyaOHKO/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/GargeyaOHKO/Leetcode/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GargeyaOHKO/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/GargeyaOHKO/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GargeyaOHKO/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/GargeyaOHKO/Leetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GargeyaOHKO/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
