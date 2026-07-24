@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/GargeyaOHKO/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0498-diagonal-traverse](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0587-erect-the-fence](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0587-erect-the-fence/) | Hard |
 | [0621-task-scheduler](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0621-task-scheduler/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/GargeyaOHKO/Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0498-diagonal-traverse](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0542-01-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/GargeyaOHKO/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/GargeyaOHKO/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0498-diagonal-traverse](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
