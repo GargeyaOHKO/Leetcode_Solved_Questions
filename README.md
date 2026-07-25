@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/GargeyaOHKO/Leetcode/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Prefix Sum
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0781-rabbits-in-forest](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -335,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/GargeyaOHKO/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
