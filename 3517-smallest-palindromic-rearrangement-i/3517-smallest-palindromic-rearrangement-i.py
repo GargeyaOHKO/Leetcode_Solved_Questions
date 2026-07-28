@@ -1,22 +1,21 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        if len(s)==1:
-            return s
-        d=SortedDict()
-        for i in s:
-            d[i]=d.get(i,0)+1
-        #print(d)
-        s=""
-        left=""
-        for i in d:
-            #print(d)
-            while d[i]>0:
-                if d[i]==1:
-                    left=i
-                    break
+        front,mid=[],[]
+        d=Counter(s)
+        for i in range(97,97+27):
+            if chr(i) in d:
+                if d[chr(i)]%2==0:
+                    front.append(chr(i)*(d[chr(i)]//2))
                 else:
-                    s+=i
-                    d[i]-=2
-        s=s+left+s[::-1]
-        return s
+                    front.append(chr(i)*(d[chr(i)]//2))
+                    mid.append(chr(i))
+        res=""
+        for i in front:
+            res+=i
+        for i in mid:
+            res+=i
+        for i in front[::-1]:
+            res+=i
+        return res
+
 
