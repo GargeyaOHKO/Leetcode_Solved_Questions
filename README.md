@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/GargeyaOHKO/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/GargeyaOHKO/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GargeyaOHKO/Leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/GargeyaOHKO/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GargeyaOHKO/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
