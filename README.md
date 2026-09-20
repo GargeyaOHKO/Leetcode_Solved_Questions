@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/GargeyaOHKO/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3859-count-subarrays-with-k-distinct-integers](https://github.com/GargeyaOHKO/Leetcode/tree/main/3859-count-subarrays-with-k-distinct-integers/) | Hard |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/GargeyaOHKO/Leetcode_Solved_Questions/tree/main/4049-count-values-with-equally-spaced-occurrences-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
